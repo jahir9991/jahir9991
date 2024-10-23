@@ -8,13 +8,6 @@
 <a href="https://fb.com/jahir9991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahir9991" height="30" width="40" /></a>
 </p>
 
-# Hello World,
-
-
-
-I'm an Engineer by profession and a Teacher by passion.  
-I share my knowledge by creating Coding.
-
 
 Technologies:
 - Javascript, Typescript, React, Angular,svelte, flutter 
