@@ -22,7 +22,7 @@
 
 **Frontend:** React · Svelte/SvelteKit · Angular · Flutter · Tailwind CSS
 
-**Backend & Infra:** Node.js · Hono · Express · MongoDB · PostgreSQL · RabbitMQ · Redis · Docker · Cloudflare (Workers, Pages, D1, KV, R2) · Drizzle ORM
+**Backend & Infra:** Go ·  Node.js · Hono · Express · MongoDB · PostgreSQL · RabbitMQ · Redis · Docker · Cloudflare (Workers, Pages, D1, KV, R2) · Drizzle ORM
 
 ### 🌟 Highlighted projects
 
